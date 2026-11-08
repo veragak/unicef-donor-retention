@@ -1,0 +1,6 @@
+pandas
+numpy
+aiohttp
+nest_asyncio
+jupyter
+scipy
